@@ -1,2 +1,2 @@
 # MONDAY
-An AI assisant written by using modules GUI,and PyQt5 in Python
+A Personal Assisant initialised by using modules GUI,and PyQt5 in Python
